@@ -1,0 +1,104 @@
+        /* Jumbotron */
+        .jumbotron{
+            background: url("../img/logo.jpg") no-repeat center center;
+            -webkit-background-size : cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;     
+        }
+
+        .jumbotron img{
+            height: cover;
+            width: cover;
+        }
+
+
+      /* Mengatur posisi form/kontent di info_kegiatan.php dan info_artikel.php (tampilan user) */
+
+      .post2
+      {
+        margin-top:80px;
+      }
+
+      .post3
+      {
+        margin-bottom:65px;
+      }
+
+      .post4
+      {
+        margin-bottom:10px;
+      }
+
+      .post5
+      {
+        margin-top:40px;
+      }
+
+      .post6
+      {
+        margin-bottom:20px;
+      }
+
+
+      /* mengatur posisi form navbar/top dan footer/bottom pada admin */
+      
+      .jarak
+      {
+         margin-bottom:20px;
+         margin-top:80px;
+      }
+
+
+      /* mengatur posisi form navbar/top dan footer/bottom pada admin edit */
+
+      .jarak1
+      {
+         margin-bottom:55px;
+         margin-top:80px;
+      }
+
+
+      .logout{
+        color: white;
+        padding-right: 100px;
+      }
+
+
+      /*warna header/footer pada desain tampilan dan card pada info_kegiatan dan info_artikel*/
+      .navbar{
+          background-color:#400080;
+          color: white;
+      }
+      .footer{
+          background-color:#26004d;
+          color: white;
+      }
+      .card-header{
+          background-color:#4f0099;
+          color: white;
+      }
+      .card-button{
+          background-color:#4f0099;
+          color: white;
+      }
+      .card-button:hover{
+          background-color: white;
+          color: #4f0099;
+          border-width: 1px;
+          border-color: #4f0099;
+      }
+      .card-button2{
+          background-color:#fede01;
+          color: #404442;
+          font-weight: bold;
+      }
+      .card-button2:hover{
+          background-color: white;
+          color: #f7a409;
+          border-width: 1px;
+          border-color: #f7a409;
+      }
+      .card-komen{
+          background-color:#f0f0f5;
+      }

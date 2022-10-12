@@ -1,0 +1,12 @@
+[28-Jun-2020 10:32:21 Asia/Jakarta] PHP Notice:  Undefined variable: img_src in /home/ojoh5979/public_html/pmkexodus/admin/artikel/artikel_simpan.php on line 131
+[28-Jun-2020 10:32:21 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/ojoh5979/public_html/pmkexodus/admin/artikel/artikel_simpan.php on line 131
+[28-Jun-2020 10:32:21 Asia/Jakarta] PHP Notice:  Undefined variable: img_src in /home/ojoh5979/public_html/pmkexodus/admin/artikel/artikel_simpan.php on line 134
+[28-Jun-2020 10:32:21 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/ojoh5979/public_html/pmkexodus/admin/artikel/artikel_simpan.php on line 134
+[28-Jun-2020 10:33:36 Asia/Jakarta] PHP Notice:  Undefined variable: img_src in /home/ojoh5979/public_html/pmkexodus/admin/artikel/artikel_simpan.php on line 131
+[28-Jun-2020 10:33:36 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/ojoh5979/public_html/pmkexodus/admin/artikel/artikel_simpan.php on line 131
+[28-Jun-2020 10:33:36 Asia/Jakarta] PHP Notice:  Undefined variable: img_src in /home/ojoh5979/public_html/pmkexodus/admin/artikel/artikel_simpan.php on line 134
+[28-Jun-2020 10:33:36 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/ojoh5979/public_html/pmkexodus/admin/artikel/artikel_simpan.php on line 134
+[28-Jun-2020 10:39:16 Asia/Jakarta] PHP Notice:  Undefined variable: img_src in /home/ojoh5979/public_html/pmkexodus/admin/artikel/artikel_simpan.php on line 131
+[28-Jun-2020 10:39:16 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/ojoh5979/public_html/pmkexodus/admin/artikel/artikel_simpan.php on line 131
+[28-Jun-2020 10:39:16 Asia/Jakarta] PHP Notice:  Undefined variable: img_src in /home/ojoh5979/public_html/pmkexodus/admin/artikel/artikel_simpan.php on line 134
+[28-Jun-2020 10:39:16 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/ojoh5979/public_html/pmkexodus/admin/artikel/artikel_simpan.php on line 134

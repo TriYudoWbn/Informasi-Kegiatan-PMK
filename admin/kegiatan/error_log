@@ -1,0 +1,45 @@
+[27-Jun-2020 16:55:01 Asia/Jakarta] PHP Warning:  Use of undefined constant header - assumed 'header' (this will throw an Error in a future version of PHP) in /home/ojoh5979/public_html/pmkexodus/admin/kegiatan/kegiatan_simpan.php on line 59
+[27-Jun-2020 16:55:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function remove() in /home/ojoh5979/public_html/pmkexodus/admin/kegiatan/kegiatan_simpan.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/ojoh5979/public_html/pmkexodus/admin/kegiatan/kegiatan_simpan.php on line 59
+[27-Jun-2020 17:08:55 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ojoh5979/public_html/pmkexodus/admin/kegiatan/tampil_data_kegiatan.php on line 70
+[27-Jun-2020 19:11:43 Asia/Jakarta] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ojoh5979/public_html/pmkexodus/admin/kegiatan/tampil_data_kegiatan.php on line 37
+[27-Jun-2020 19:11:43 Asia/Jakarta] PHP Warning:  include(https://pmkexodus.ojocekel.com/config/koneksi.php): failed to open stream: no suitable wrapper could be found in /home/ojoh5979/public_html/pmkexodus/admin/kegiatan/tampil_data_kegiatan.php on line 37
+[27-Jun-2020 19:11:43 Asia/Jakarta] PHP Warning:  include(): Failed opening 'https://pmkexodus.ojocekel.com/config/koneksi.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ojoh5979/public_html/pmkexodus/admin/kegiatan/tampil_data_kegiatan.php on line 37
+[27-Jun-2020 19:11:43 Asia/Jakarta] PHP Notice:  Undefined variable: kon in /home/ojoh5979/public_html/pmkexodus/admin/kegiatan/tampil_data_kegiatan.php on line 39
+[27-Jun-2020 19:11:43 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ojoh5979/public_html/pmkexodus/admin/kegiatan/tampil_data_kegiatan.php on line 39
+[27-Jun-2020 19:11:43 Asia/Jakarta] PHP Notice:  Undefined variable: kon in /home/ojoh5979/public_html/pmkexodus/admin/kegiatan/tampil_data_kegiatan.php on line 41
+[27-Jun-2020 19:11:43 Asia/Jakarta] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/ojoh5979/public_html/pmkexodus/admin/kegiatan/tampil_data_kegiatan.php on line 41
+[27-Jun-2020 19:22:32 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ojoh5979/public_html/pmkexodus/admin/kegiatan/kegiatan_simpan.php on line 63
+[27-Jun-2020 19:22:44 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ojoh5979/public_html/pmkexodus/admin/kegiatan/kegiatan_simpan.php on line 63
+[27-Jun-2020 19:23:22 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ojoh5979/public_html/pmkexodus/admin/kegiatan/kegiatan_simpan.php on line 63
+[27-Jun-2020 19:23:38 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ojoh5979/public_html/pmkexodus/admin/kegiatan/kegiatan_simpan.php on line 63
+[28-Jun-2020 13:34:47 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/ojoh5979/public_html/pmkexodus/send_message.php on line 19
+[28-Jun-2020 13:34:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/ojoh5979/public_html/pmkexodus/send_message.php:26
+Stack trace:
+#0 /home/ojoh5979/public_html/pmkexodus/send_message.php(51): sendMessage('Kunjungan')
+#1 /home/ojoh5979/public_html/pmkexodus/admin/kegiatan/tampil_data_kegiatan.php(27): include('/home/ojoh5979/...')
+#2 {main}
+  thrown in /home/ojoh5979/public_html/pmkexodus/send_message.php on line 26
+[28-Jun-2020 13:35:00 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/ojoh5979/public_html/pmkexodus/send_message.php on line 19
+[28-Jun-2020 13:35:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/ojoh5979/public_html/pmkexodus/send_message.php:26
+Stack trace:
+#0 /home/ojoh5979/public_html/pmkexodus/send_message.php(51): sendMessage('Kunjungan')
+#1 /home/ojoh5979/public_html/pmkexodus/admin/kegiatan/tampil_data_kegiatan.php(27): include('/home/ojoh5979/...')
+#2 {main}
+  thrown in /home/ojoh5979/public_html/pmkexodus/send_message.php on line 26
+[28-Jun-2020 13:37:01 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/ojoh5979/public_html/pmkexodus/send_message.php on line 19
+[28-Jun-2020 13:37:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/ojoh5979/public_html/pmkexodus/send_message.php:26
+Stack trace:
+#0 /home/ojoh5979/public_html/pmkexodus/send_message.php(51): sendMessage('Kunjungan')
+#1 /home/ojoh5979/public_html/pmkexodus/admin/kegiatan/tampil_data_kegiatan.php(27): include('/home/ojoh5979/...')
+#2 {main}
+  thrown in /home/ojoh5979/public_html/pmkexodus/send_message.php on line 26
+[28-Jun-2020 13:37:21 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/ojoh5979/public_html/pmkexodus/send_message.php on line 19
+[28-Jun-2020 13:37:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/ojoh5979/public_html/pmkexodus/send_message.php:26
+Stack trace:
+#0 /home/ojoh5979/public_html/pmkexodus/send_message.php(51): sendMessage('Kunjungan')
+#1 /home/ojoh5979/public_html/pmkexodus/admin/kegiatan/tampil_data_kegiatan.php(27): include('/home/ojoh5979/...')
+#2 {main}
+  thrown in /home/ojoh5979/public_html/pmkexodus/send_message.php on line 26

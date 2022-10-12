@@ -1,0 +1,1 @@
+[27-Jun-2020 14:55:46 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ojoh5979/public_html/pmkexodus/config/koneksi.php on line 8
